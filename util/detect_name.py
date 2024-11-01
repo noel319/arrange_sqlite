@@ -45,9 +45,9 @@ def detect_name(input_name):
 
 # Example Usage
 names_to_test = [
-    "john smith",
+    "",
     "Иван Иванович Иванов",
-    "Иван",
+    "Новогиреевская",
     "smith",
     "Иванович"
 ]
